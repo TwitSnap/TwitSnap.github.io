@@ -1,0 +1,1 @@
+# Este sera el manual de usuario del TwitSnap principal
