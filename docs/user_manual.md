@@ -212,18 +212,22 @@ La funcionalidad de chats te permite comunicarte en tiempo real con otros usuari
 <div style="display: flex; align-items: flex-start;grid-template-columns: 1fr 1fr 1fr;  column-gap: 5px; margin-bottom:10px; max-width: 1000px;">
     <div style="width=200px;">
         <div>
-            <strong>1. Chats Activos</strong>:
-                <ul>
-                    <li>
-                        Verás una lista de chats ya iniciados con   otros usuarios.
-                    </li>
-                    <li>
-                        Selecciona cualquier chat para continuar la  conversación en tiempo real.
-                    </li>
-                <ul>
+            <p>
+                <strong>1. Chats Activos</strong>:
+            </p>
+            <ul>
+                <li>
+                    Verás una lista de chats ya iniciados con   otros usuarios.
+                </li>
+                <li>
+                    Selecciona cualquier chat para continuar la  conversación en tiempo real.
+                </li>
+            <ul>
         </div>
         <div>
-            <strong>2.Envío de Mensajes</strong>:
+            <p>
+                <strong>2.Envío de Mensajes</strong>:
+            </p>
             <ul>
                 <li>Dentro del chat, escribe tu mensaje en elcampo     de  texto y presiona el botón de enviar.
                 </li>
@@ -233,15 +237,17 @@ La funcionalidad de chats te permite comunicarte en tiempo real con otros usuari
             <ul>
         </div>
         <div>
-        <strong>3.Iniciar un Nuevo Chat </strong>:
-        <ul>
-            <li>
-                Para comenzar un chat con un nuevo usuario, primero accede a su perfil y selecciona el logo de chat, como ya se explicó en la sección de Perfiles.
-            </li>
-        </ul>  
+            <p>
+                <strong>3.Iniciar un Nuevo Chat </strong>:
+            </p>
+            <ul>
+                <li>
+                    Para comenzar un chat con un nuevo usuario, primero accede a su perfil y selecciona el logo de chat, como ya se explicó en la sección de Perfiles.
+                </li>
+            </ul>  
         </div>
     </div>
-    <image style= "width=400px; height:700px;" src="./images/chats2.png"/>
+    <image style= "width=400px; height:700px;" src="./images/chats2.png" />
 </div>
 
 Esta funcionalidad te permite mantener conversaciones privadas y dinámicas con otros usuarios de la aplicación.
