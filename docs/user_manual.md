@@ -167,7 +167,7 @@ Cuando accedes a un twit específico, puedes interactuar con él mediante varias
 En la sección de Mi Perfil  la cual es accesible en la barra principal del menú donde está el feed general, además de las opciones disponibles en el perfil de otro usuario, tendrás herramientas adicionales para administrar y personalizar tu experiencia. Las funcionalidades principales incluyen:
 
 <div style="display: flex; align-items: flex-start;grid-template-columns: 1fr 1fr 1fr;  column-gap: 10px; margin-bottom:10px;">
-    <image style= "width=100px; height:400px;" src="./images/perfil3.png">
+    <image style= "width=100px; height:400px;" src="./images/perfil3.png" />
     <div>
     <p><strong>1. Estadísticas</strong>: Consulta métricas detalladas sobre tu actividad en la aplicación, como el número de publicaciones realizadas, likes/retwits/comentarios recibidos, y seguidores ganados.
     </p>
