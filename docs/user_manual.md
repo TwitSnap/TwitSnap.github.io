@@ -1,28 +1,14 @@
 ## **Manual de Usuario \- Aplicación Twitsnap**
 
-##
-
-##
-
-##
-
 
 - [**Manual de Usuario - Aplicación Twitsnap**](#manual-de-usuario---aplicación-twitsnap)
-- [](#)
-- [](#-1)
-- [](#-2)
 - [**1. Introducción**](#1-introducción)
-- [Bienvenido al manual de usuario de nuestra aplicación Twitsnap. Este documento te guiará a través de las funcionalidades principales de la aplicación, desde el registro hasta la publicación de contenido](#bienvenido-al-manual-de-usuario-de-nuestra-aplicación-twitsnap-este-documento-te-guiará-a-través-de-las-funcionalidades-principales-de-la-aplicación-desde-el-registro-hasta-la-publicación-de-contenido)
 - [**2. Registro de usuario**](#2-registro-de-usuario)
   - [**Registro normal**](#registro-normal)
-  - [ ](#-)
   - [**Entrar con Google**](#entrar-con-google)
-- [ ](#--1)
 - [**3. Inicio de sesión y logout**](#3-inicio-de-sesión-y-logout)
   - [**Inicio de sesión normal**](#inicio-de-sesión-normal)
-- [ ](#--2)
   - [**Inicio de sesión con Google**](#inicio-de-sesión-con-google)
-- [](#-3)
 - [**4. Feed y como publicar un twit**](#4-feed-y-como-publicar-un-twit)
   - [**Feed**](#feed)
   - [**Publicar**](#publicar)
@@ -30,7 +16,6 @@
 - [**6. Perfiles**](#6-perfiles)
 - [**7. Buscar Usuarios/Twits**](#7-buscar-usuariostwits)
 - [**8. Chats**](#8-chats)
-- [](#-4)
 - [**9. Notificaciones**](#9-notificaciones)
   - [**Activación de Notificaciones**](#activación-de-notificaciones)
   - [**Visualización de Notificaciones**](#visualización-de-notificaciones)
@@ -38,7 +23,7 @@
 
 ## **1\. Introducción**
 
-## Bienvenido al manual de usuario de nuestra aplicación Twitsnap. Este documento te guiará a través de las funcionalidades principales de la aplicación, desde el registro hasta la publicación de contenido
+Bienvenido al manual de usuario de nuestra aplicación Twitsnap. Este documento te guiará a través de las funcionalidades principales de la aplicación, desde el registro hasta la publicación de contenido
 
 ## **2\. Registro de usuario**
 
@@ -55,7 +40,7 @@
 3. Acepta los términos y condiciones y haz clic en **Registrar**.  
 4. Recibirás un correo electrónico de confirmación. La cual no servirá para verificar la cuenta cuando hagamos el login.
 
-### ![](./images/login1.png) ![](images/login2.png)
+![](./images/login1.png) ![](images/login2.png)
 
 ### **Entrar con Google**
 
@@ -64,7 +49,7 @@
 3. Autoriza el acceso de la aplicación a tu cuenta de Google.  
 4. La aplicación usará tu información de Google (nombre, correo electrónico) para completar el registro automáticamente.
 
-## ![](images/googl1.png) ![](images/google2.png)
+![](images/googl1.png) ![](images/google2.png)
 
 ## **3\. Inicio de sesión y logout**
 
@@ -78,7 +63,7 @@
 * Ingresa el PIN en la pantalla correspondiente para completar el acceso.  
 * Si no encuentras el correo o el PIN ha expirado, selecciona la opción **"Reenviar PIN"** para recibir un nuevo código.
 
-## ![](images/verificacion1.png) ![](images/verificacion2.png)
+![](images/verificacion1.png) ![](images/verificacion2.png)
 
 ### **Inicio de sesión con Google**
 
@@ -90,7 +75,7 @@
 
 **Logout**
 
-## ![](images/logout.png)
+![](images/logout.png)
 
 1. Para cerrar sesión, selecciona la opción **"Cerrar Sesión"** desde el menú principal.  
 2. Esto desconectará tu cuenta de forma segura, protegiendo tu información.
@@ -256,8 +241,6 @@ La funcionalidad de chats te permite comunicarte en tiempo real con otros usuari
 </div>
 
 Esta funcionalidad te permite mantener conversaciones privadas y dinámicas con otros usuarios de la aplicación.
-
-##
 
 ## **9\. Notificaciones**
 
