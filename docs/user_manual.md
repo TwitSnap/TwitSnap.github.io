@@ -4,32 +4,32 @@
 ## **Manual de Usuario \- Aplicación Twitsnap**
 
 - [**Manual de Usuario - Aplicación Twitsnap**](#manual-de-usuario---aplicación-twitsnap)
-- [**1. Introducción**](#1-introducción)
-- [**2. Registro de usuario**](#2-registro-de-usuario)
+- [**Introducción**](#introducción)
+- [**Registro de usuario**](#registro-de-usuario)
   - [**Registro normal**](#registro-normal)
   - [**Entrar con Google**](#entrar-con-google)
-- [**3. Inicio de sesión y logout**](#3-inicio-de-sesión-y-logout)
+- [**Inicio de sesión y logout**](#inicio-de-sesión-y-logout)
   - [**Inicio de sesión normal**](#inicio-de-sesión-normal)
   - [**Inicio de sesión con Google**](#inicio-de-sesión-con-google)
-- [**4. Feed y como publicar un twit**](#4-feed-y-como-publicar-un-twit)
+- [**Feed y como publicar un twit**](#feed-y-como-publicar-un-twit)
   - [**Feed**](#feed)
   - [**Publicar**](#publicar)
-- [**5. Detalles de un Tuit**](#5-detalles-de-un-tuit)
-- [**6. Perfiles**](#6-perfiles)
-- [**7. Buscar Usuarios/Twits**](#7-buscar-usuariostwits)
-- [**8. Chats**](#8-chats)
-- [**9. Notificaciones**](#9-notificaciones)
+- [**Detalles de un Tuit**](#detalles-de-un-tuit)
+- [**Perfiles**](#perfiles)
+- [**Buscar Usuarios/Twits**](#buscar-usuariostwits)
+- [**Chats**](#chats)
+- [**Notificaciones**](#notificaciones)
   - [**Activación de Notificaciones**](#activación-de-notificaciones)
   - [**Visualización de Notificaciones**](#visualización-de-notificaciones)
-- [**10. Recupero de contraseña**](#10-recupero-de-contraseña)
+- [**Recupero de contraseña**](#recupero-de-contraseña)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-## **1. Introducción**
+## **Introducción**
 
 Bienvenido al manual de usuario de nuestra aplicación Twitsnap. Este documento te guiará a través de las funcionalidades principales de la aplicación, desde el registro hasta la publicación de contenido
 
-## **2. Registro de usuario**
+## **Registro de usuario**
 
 ### **Registro normal**
 
@@ -55,7 +55,7 @@ Bienvenido al manual de usuario de nuestra aplicación Twitsnap. Este documento 
 
 ![](images/googl1.png) ![](images/google2.png)
 
-## **3. Inicio de sesión y logout**
+## **Inicio de sesión y logout**
 
 ### **Inicio de sesión normal**
 
@@ -84,7 +84,7 @@ Bienvenido al manual de usuario de nuestra aplicación Twitsnap. Este documento 
 1. Para cerrar sesión, selecciona la opción **"Cerrar Sesión"** desde el menú principal.  
 2. Esto desconectará tu cuenta de forma segura, protegiendo tu información.
 
-## **4. Feed y como publicar un twit**
+## **Feed y como publicar un twit**
 
 ### **Feed**
 
@@ -112,7 +112,7 @@ Puedes crear tus propias publicaciones con las siguientes características:
 
 ![](images/publicar1.png)
 
-## **5. Detalles de un Tuit**
+## **Detalles de un Tuit**
 
 ![](images/detalles1.png)
 
@@ -136,7 +136,7 @@ Cuando accedes a un twit específico, puedes interactuar con él mediante varias
 
 **7\. Privacidad**: Si el twit es privado, aparecerá una etiqueta indicando que solo los seguidores del usuario pueden verlo.
 
-## **6. Perfiles**
+## **Perfiles**
 
 **Perfil de Otro Usuario:** Al acceder al perfil de otro usuario, podrás ver su foto de perfil, nombre de usuario (username), biografía, y sus publicaciones.
 <div style="display: flex; align-items: flex-start;grid-template-columns: 1fr 1fr 1fr; column-gap: 10px; margin-bottom:10px;">
@@ -184,7 +184,7 @@ En la sección de Mi Perfil  la cual es accesible en la barra principal del men�
 
 ![](images/intereses1.png)
 
-## **7. Buscar Usuarios/Twits**
+## **Buscar Usuarios/Twits**
 
 La funcionalidad de búsqueda te permite encontrar usuarios y publicaciones relevantes mediante una interfaz sencilla e intuitiva. A continuación, se detalla cómo usar esta función:
 
@@ -203,7 +203,7 @@ La funcionalidad de búsqueda te permite encontrar usuarios y publicaciones rele
 
 Con esta herramienta, podrás descubrir nuevos contenidos y usuarios de manera eficiente y organizada.
 
-## **8. Chats**
+## **Chats**
 
 La funcionalidad de chats te permite comunicarte en tiempo real con otros usuarios. En la barra de navegación principal, selecciona el icono de chats para acceder a la pantalla principal de mensajes. A continuación, se detalla cómo funciona:
 
@@ -252,7 +252,7 @@ La funcionalidad de chats te permite comunicarte en tiempo real con otros usuari
 
 Esta funcionalidad te permite mantener conversaciones privadas y dinámicas con otros usuarios de la aplicación.
 
-## **9. Notificaciones**
+## **Notificaciones**
 
 La sección de notificaciones te mantiene informado sobre las interacciones más relevantes en la aplicación. Hay tres tipos de notificaciones disponibles:
 
@@ -296,7 +296,7 @@ Para recibir notificaciones, es importante que permitas el acceso a las notifica
      <image style= "width=100px; height:300px;" src="./images/notificaciones3.png"/>
 </div>
 
-## **10. Recupero de contraseña**
+## **Recupero de contraseña**
 
 Si olvidaste tu contraseña, puedes recuperarla fácilmente siguiendo estos pasos:
 
