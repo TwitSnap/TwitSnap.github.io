@@ -25,7 +25,6 @@
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-
 ## **1. Introducción**
 
 Bienvenido al manual de usuario de nuestra aplicación Twitsnap. Este documento te guiará a través de las funcionalidades principales de la aplicación, desde el registro hasta la publicación de contenido
@@ -36,12 +35,12 @@ Bienvenido al manual de usuario de nuestra aplicación Twitsnap. Este documento 
 
 1. Abre la aplicación y selecciona la opción **Registrarse**.  
 2. Completa el formulario de registro proporcionando:  
-   * Nombre de usuario  
-   * Correo electrónico  
-   * Número de teléfono (opcional)  
-   * País  
-   * Intereses (opcional)  
-   * Contraseña  
+   - Nombre de usuario  
+   - Correo electrónico  
+   - Número de teléfono (opcional)  
+   - País  
+   - Intereses (opcional)  
+   - Contraseña  
 3. Acepta los términos y condiciones y haz clic en **Registrar**.  
 4. Recibirás un correo electrónico de confirmación. La cual no servirá para verificar la cuenta cuando hagamos el login.
 
@@ -64,9 +63,9 @@ Bienvenido al manual de usuario de nuestra aplicación Twitsnap. Este documento 
 2. En la pantalla de inicio, selecciona la opción **Login**.  
 3. Verificación de PIN (Primera Vez o Cuenta No Verificada):  
 
-* Si es la primera vez que ingresas o si aún no verificaste tu cuenta, se enviará un PIN de verificación al correo electrónico que utilizaste al registrarte.  
-* Ingresa el PIN en la pantalla correspondiente para completar el acceso.  
-* Si no encuentras el correo o el PIN ha expirado, selecciona la opción **"Reenviar PIN"** para recibir un nuevo código.
+- Si es la primera vez que ingresas o si aún no verificaste tu cuenta, se enviará un PIN de verificación al correo electrónico que utilizaste al registrarte.  
+- Ingresa el PIN en la pantalla correspondiente para completar el acceso.  
+- Si no encuentras el correo o el PIN ha expirado, selecciona la opción **"Reenviar PIN"** para recibir un nuevo código.
 
 ![](images/verificacion1.png) ![](images/verificacion2.png)
 
@@ -91,11 +90,11 @@ Bienvenido al manual de usuario de nuestra aplicación Twitsnap. Este documento 
 
 El feed de la aplicación presenta una lista de publicaciones organizadas cronológicamente y personalizadas según tus intereses. En esta sección encontrarás:
 
-* **Feed General**: Una vista general de las publicaciones más recientes y relevantes.  
-* **Trending Topics**: Una lista de los tags más populares en el momento. Al seleccionar un trending topic, podrás ver el feed asociado con ese tag.  
-* **Botón de Recarga**: Un botón para actualizar el feed y asegurarte de estar viendo el contenido más reciente.
+- **Feed General**: Una vista general de las publicaciones más recientes y relevantes.  
+- **Trending Topics**: Una lista de los tags más populares en el momento. Al seleccionar un trending topic, podrás ver el feed asociado con ese tag.  
+- **Botón de Recarga**: Un botón para actualizar el feed y asegurarte de estar viendo el contenido más reciente.
 
-<img style="display: block ;margin: auto; width: 300px; height: 400px;" src="./images/feed.png" >
+<img style="display: block ;margin: auto; width: 300px; height: 400px;" src="./images/feed.png" />
 
 ### **Publicar**
 
@@ -105,11 +104,11 @@ En la parte inferior derecha del feed, encontrarás un botón flotante que te pe
 
 Puedes crear tus propias publicaciones con las siguientes características:
 
-* **Seleccionar Intereses (Tags)**: Puedes agregar intereses relacionados a tu publicación para alcanzar a una audiencia específica.  
-* **Mencionar Usuarios**: Es posible etiquetar a otros usuarios utilizando el símbolo `@` seguido del nombre de usuario.  
-* **Hashtags**: Incluye hashtags relevantes utilizando el símbolo `#` para facilitar que otros encuentren tu publicación.  
-* **Privacidad**: Tienes la opción de configurar tu publicación como privada, para que solo sea visible para tus seguidores.  
-* **Publicar Botón**: Una vez que tu contenido esté listo, presiona el botón **Post Twit** para publicarlo.
+- **Seleccionar Intereses (Tags)**: Puedes agregar intereses relacionados a tu publicación para alcanzar a una audiencia específica.  
+- **Mencionar Usuarios**: Es posible etiquetar a otros usuarios utilizando el símbolo `@` seguido del nombre de usuario.  
+- **Hashtags**: Incluye hashtags relevantes utilizando el símbolo `#` para facilitar que otros encuentren tu publicación.  
+- **Privacidad**: Tienes la opción de configurar tu publicación como privada, para que solo sea visible para tus seguidores.  
+- **Publicar Botón**: Una vez que tu contenido esté listo, presiona el botón **Post Twit** para publicarlo.
 
 ![](images/publicar1.png)
 
@@ -141,12 +140,12 @@ Cuando accedes a un twit específico, puedes interactuar con él mediante varias
 
 **Perfil de Otro Usuario:** Al acceder al perfil de otro usuario, podrás ver su foto de perfil, nombre de usuario (username), biografía, y sus publicaciones.
 <div style="display: flex; align-items: flex-start;grid-template-columns: 1fr 1fr 1fr;  column-gap: 10px; margin-bottom:10px">
-    <image style= "width=100px; height:500px"src="./images/perfil1.png">
+    <image style= "width=100px; height:500px"src="./images/perfil1.png"/>
     <div>
     <p><strong>1. Foto, Nombre de Usuario y Biografía</strong>: Verás su foto de perfil sumado a la bandera de su país, nombre de usuario (username) y la biografía que ha compartido, en la que puede describir detalles sobre sí mismo.
     </p>
     <p><strong>2. Seguidores y Seguidos</strong>: Solo podrás ver a quién sigue el usuario y quién lo sigue si te sigue también. Esto está sujeto a la configuración de privacidad del usuario. Además abajo vas a tener la opción de seguirlo o dejar de seguirlo.</p>
-    <image style= "width=100px; height:200px"src="./images/seguidos.png">
+    <image style= "width=100px; height:200px"src="./images/seguidos.png"/>
     </div>
 </div>
 
@@ -173,8 +172,8 @@ En la sección de Mi Perfil  la cual es accesible en la barra principal del men�
     <p><strong>1. Estadísticas</strong>: Consulta métricas detalladas sobre tu actividad en la aplicación, como el número de publicaciones realizadas, likes/retwits/comentarios recibidos, y seguidores ganados.
     </p>
     <div style="display: flex; align-items: flex-start;grid-template-columns: 1fr 1fr 1fr;  column-gap: 10px; margin-bottom:10px">
-    <image style= "width=100px; height:200px"src="./images/estadisticas1.png">
-        <image style= "width=100px; height:200px"src="./images/estadisticas2.png">
+    <image style= "width=100px; height:200px"src="./images/estadisticas1.png"/>
+        <image style= "width=100px; height:200px"src="./images/estadisticas2.png"/>
     </div>
     </div>
 </div>
@@ -192,13 +191,13 @@ La funcionalidad de búsqueda te permite encontrar usuarios y publicaciones rele
 ![](images/buscar1.png)
 
 1. **Usuarios Recomendados**:  
-   * Antes de realizar una búsqueda, se mostrará una lista de usuarios recomendados basada en tus intereses.  
-   * Puedes eliminar cualquier usuario de la lista para que se muestren nuevas recomendaciones.  
+   - Antes de realizar una búsqueda, se mostrará una lista de usuarios recomendados basada en tus intereses.  
+   - Puedes eliminar cualquier usuario de la lista para que se muestren nuevas recomendaciones.  
 2. **Búsqueda por Nombre de Usuario**:  
-   * Introduce el username del usuario que deseas encontrar.  
-   * Aparecerá una lista de usuarios coincidentes. Puedes seleccionar cualquier usuario para acceder a su perfil.  
+   - Introduce el username del usuario que deseas encontrar.  
+   - Aparecerá una lista de usuarios coincidentes. Puedes seleccionar cualquier usuario para acceder a su perfil.  
 3. **Botón "Search Twits"**:  
-   * Al presionar este botón, se activará la búsqueda exclusiva de publicaciones que coincidan con tus términos.
+   - Al presionar este botón, se activará la búsqueda exclusiva de publicaciones que coincidan con tus términos.
 
 ![](images/buscar2.png)
 
@@ -242,7 +241,7 @@ La funcionalidad de chats te permite comunicarte en tiempo real con otros usuari
         </ul>  
         </div>
     </div>
-    <image style= "width=400px; height:700px"src="./images/chats2.png">
+    <image style= "width=400px; height:700px"src="./images/chats2.png"/>
 </div>
 
 Esta funcionalidad te permite mantener conversaciones privadas y dinámicas con otros usuarios de la aplicación.
@@ -272,7 +271,7 @@ La sección de notificaciones te mantiene informado sobre las interacciones más
             </ul>
         </div>
     </div>
-    <image style= "width=400px; height:300px"src="./images/notificaciones.png">
+    <image style= "width=400px; height:300px"src="./images/notificaciones.png"/>
 </div>
 
 ### **Activación de Notificaciones**
@@ -283,12 +282,12 @@ Para recibir notificaciones, es importante que permitas el acceso a las notifica
 
 <div style="display: flex; align-items: center;grid-template-columns: 1fr 1fr 1fr;  column-gap: 5px; margin-bottom:10px;">
     <div style="margin-right:10px">
-        <image style= "width=150px; height:70px;margin-bottom:10px"src="./images/notificaciones2.png">
+        <image style= "width=150px; height:70px;margin-bottom:10px"src="./images/notificaciones2.png"/>
         <p>
             Desde el menú principal de la aplicación, puedes acceder a la   sección de <strong>Notificaciones</strong>, donde   se listarán todas las    alertas que hayas recibido. Esto te permite revisarlas en  cualquier momento de manera organizada.
         </p>
     </div>
-     <image style= "width=100px; height:300px"src="./images/notificaciones3.png">
+     <image style= "width=100px; height:300px"src="./images/notificaciones3.png"/>
 </div>
 
 ## **10. Recupero de contraseña**
@@ -296,31 +295,31 @@ Para recibir notificaciones, es importante que permitas el acceso a las notifica
 Si olvidaste tu contraseña, puedes recuperarla fácilmente siguiendo estos pasos:
 
 1. **Acceso a la Opción de Recuperación**:  
-   * En la pantalla de inicio de sesión, selecciona la opción **"¿Olvidaste tu contraseña?"**.
+   - En la pantalla de inicio de sesión, selecciona la opción **"¿Olvidaste tu contraseña?"**.
   
     <img src="./images/recupero1.png"  width="200" height="300" style="display: block; margin: 0 auto" />
 
 2. **Ingreso del Correo Electrónico Vinculado**:  
-   * Ingresa la dirección de correo electrónico vinculada a tu cuenta. Asegúrate de que sea el mismo correo que utilizaste al registrarte.
-   *
+   - Ingresa la dirección de correo electrónico vinculada a tu cuenta. Asegúrate de que sea el mismo correo que utilizaste al registrarte.
+   -
     <img src="./images/recupero2.png"  width="300" height="300" style="display: block; margin: 0 auto" />
 
 3. **Recepción del Correo de Recuperación**:  
-   * Revisa tu bandeja de entrada (o carpeta de spam, en caso de que no lo encuentres) para localizar el correo que contiene el enlace de recuperación.  
+   - Revisa tu bandeja de entrada (o carpeta de spam, en caso de que no lo encuentres) para localizar el correo que contiene el enlace de recuperación.  
 
         <img src="./images/recupero3.png"  width="700" height="300" style="display: block; margin: 0 auto" />
 
 4. **Uso del Enlace de Recuperación**:  
-   * Copia el enlace proporcionado en el correo y pégalo en el navegador Google Chrome (u otro navegador de tu preferencia).  
+   - Copia el enlace proporcionado en el correo y pégalo en el navegador Google Chrome (u otro navegador de tu preferencia).  
   
     <img src="./images/recupero4.png"  width="500" height="100" style="display: block; margin: 0 auto" />
 
 5. **Restablecimiento de Contraseña**:  
-   * Sigue las instrucciones para establecer una nueva contraseña. Asegúrate de elegir una contraseña segura que sea fácil de recordar para ti.
+   - Sigue las instrucciones para establecer una nueva contraseña. Asegúrate de elegir una contraseña segura que sea fácil de recordar para ti.
 
         <img src="./images/recupero5.png"  width="200" height="300" style="display: block; margin: 0 auto" />
 
 6. **Inicio de Sesión con la Nueva Contraseña**:  
-   * Una vez que hayas creado tu nueva contraseña, regresa a la aplicación e inicia sesión con tus credenciales actualizadas.
+   - Una vez que hayas creado tu nueva contraseña, regresa a la aplicación e inicia sesión con tus credenciales actualizadas.
 
 Recuerda que este proceso está diseñado para garantizar la seguridad de tu cuenta. Si encuentras algún problema durante el proceso, contacta al soporte técnico de la aplicación.
