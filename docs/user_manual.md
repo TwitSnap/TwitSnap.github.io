@@ -6,31 +6,35 @@
 
 ##
 
-## **Índice**
 
-## **1\. Introducción**
-
-## **2\. Registro de usuario**
-
-## **3\. Inicio de sesión**
-
-## **4\. Feed y como publicar un twit**
-
-## **5\. Detalles de un twit**
-
-## **6\. Perfiles**
-
-## **7\. Buscar usuarios/twits**
-
-## **8\. Chats**
-
-## **9\. Notificaciones**
-
-## **10\. Recuperar contraseña**
-
-##
-
-##
+- [**Manual de Usuario - Aplicación Twitsnap**](#manual-de-usuario---aplicación-twitsnap)
+- [](#)
+- [](#-1)
+- [](#-2)
+- [**1. Introducción**](#1-introducción)
+- [Bienvenido al manual de usuario de nuestra aplicación Twitsnap. Este documento te guiará a través de las funcionalidades principales de la aplicación, desde el registro hasta la publicación de contenido](#bienvenido-al-manual-de-usuario-de-nuestra-aplicación-twitsnap-este-documento-te-guiará-a-través-de-las-funcionalidades-principales-de-la-aplicación-desde-el-registro-hasta-la-publicación-de-contenido)
+- [**2. Registro de usuario**](#2-registro-de-usuario)
+  - [**Registro normal**](#registro-normal)
+  - [ ](#-)
+  - [**Entrar con Google**](#entrar-con-google)
+- [ ](#--1)
+- [**3. Inicio de sesión y logout**](#3-inicio-de-sesión-y-logout)
+  - [**Inicio de sesión normal**](#inicio-de-sesión-normal)
+- [ ](#--2)
+  - [**Inicio de sesión con Google**](#inicio-de-sesión-con-google)
+- [](#-3)
+- [**4. Feed y como publicar un twit**](#4-feed-y-como-publicar-un-twit)
+  - [**Feed**](#feed)
+  - [**Publicar**](#publicar)
+- [**5. Detalles de un Tuit**](#5-detalles-de-un-tuit)
+- [**6. Perfiles**](#6-perfiles)
+- [**7. Buscar Usuarios/Twits**](#7-buscar-usuariostwits)
+- [**8. Chats**](#8-chats)
+- [](#-4)
+- [**9. Notificaciones**](#9-notificaciones)
+  - [**Activación de Notificaciones**](#activación-de-notificaciones)
+  - [**Visualización de Notificaciones**](#visualización-de-notificaciones)
+- [**10. Recupero de contraseña**](#10-recupero-de-contraseña)
 
 ## **1\. Introducción**
 
@@ -52,14 +56,6 @@
 4. Recibirás un correo electrónico de confirmación. La cual no servirá para verificar la cuenta cuando hagamos el login.
 
 ### ![](./images/login1.png) ![](images/login2.png)
-
-###
-
-###
-
-###
-
-###
 
 ### **Entrar con Google**
 
@@ -110,16 +106,6 @@ El feed de la aplicación presenta una lista de publicaciones organizadas cronol
 * **Botón de Recarga**: Un botón para actualizar el feed y asegurarte de estar viendo el contenido más reciente.
 
 <img style="display: block ;margin: auto; width: 300px; height: 400px;" src="./images/feed.png" >
-
-###
-
-###
-
-###
-
-###
-
-###
 
 ### **Publicar**
 
