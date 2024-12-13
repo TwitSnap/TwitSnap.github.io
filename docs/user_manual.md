@@ -1,10 +1,10 @@
-## **Manual de Usuario \- Aplicación Twitsnap** 
+## **Manual de Usuario \- Aplicación Twitsnap**
 
-## 
+##
 
-## 
+##
 
-## 
+##
 
 ## **Índice**
 
@@ -18,7 +18,7 @@
 
 ## **5\. Detalles de un twit**
 
-## **6\. Perfiles** 
+## **6\. Perfiles**
 
 ## **7\. Buscar usuarios/twits**
 
@@ -28,13 +28,13 @@
 
 ## **10\. Recuperar contraseña**
 
-## 
+##
 
-## 
+##
 
 ## **1\. Introducción**
 
-## Bienvenido al manual de usuario de nuestra aplicación Twitsnap. Este documento te guiará a través de las funcionalidades principales de la aplicación, desde el registro hasta la publicación de contenido.
+## Bienvenido al manual de usuario de nuestra aplicación Twitsnap. Este documento te guiará a través de las funcionalidades principales de la aplicación, desde el registro hasta la publicación de contenido
 
 ## **2\. Registro de usuario**
 
@@ -53,13 +53,13 @@
 
 ### ![](./images/login1.png) ![](images/login2.png)
 
-### 
+###
 
-### 
+###
 
-### 
+###
 
-### 
+###
 
 ### **Entrar con Google**
 
@@ -77,11 +77,13 @@
 1. Ingresa tu correo electrónico y contraseña registrados.  
 2. En la pantalla de inicio, selecciona la opción **Login**.  
 3. Verificación de PIN (Primera Vez o Cuenta No Verificada):  
+
 * Si es la primera vez que ingresas o si aún no verificaste tu cuenta, se enviará un PIN de verificación al correo electrónico que utilizaste al registrarte.  
 * Ingresa el PIN en la pantalla correspondiente para completar el acceso.  
 * Si no encuentras el correo o el PIN ha expirado, selecciona la opción **"Reenviar PIN"** para recibir un nuevo código.
 
 ## ![](images/verificacion1.png) ![](images/verificacion2.png)
+
 ### **Inicio de sesión con Google**
 
 1. En la pantalla de inicio, selecciona la opción **Login with Google**.  
@@ -91,7 +93,9 @@
 ***Nota: Si te registraste con Google, el inicio de sesión deberá realizarse también con Google. No necesitarás crear una contraseña adicional.***
 
 **Logout**
+
 ## ![](images/logout.png)
+
 1. Para cerrar sesión, selecciona la opción **"Cerrar Sesión"** desde el menú principal.  
 2. Esto desconectará tu cuenta de forma segura, protegiendo tu información.
 
@@ -99,13 +103,7 @@
 
 ### **Feed**
 
-
-
-
 El feed de la aplicación presenta una lista de publicaciones organizadas cronológicamente y personalizadas según tus intereses. En esta sección encontrarás:
-
-
-
 
 * **Feed General**: Una vista general de las publicaciones más recientes y relevantes.  
 * **Trending Topics**: Una lista de los tags más populares en el momento. Al seleccionar un trending topic, podrás ver el feed asociado con ese tag.  
@@ -113,17 +111,15 @@ El feed de la aplicación presenta una lista de publicaciones organizadas cronol
 
 <img style="display: block ;margin: auto; width: 300px; height: 400px;" src="./images/feed.png" >
 
+###
 
+###
 
-### 
+###
 
-### 
+###
 
-### 
-
-### 
-
-### 
+###
 
 ### **Publicar**
 
@@ -140,6 +136,7 @@ Puedes crear tus propias publicaciones con las siguientes características:
 * **Publicar Botón**: Una vez que tu contenido esté listo, presiona el botón **Post Twit** para publicarlo.
 
 ![](images/publicar1.png)
+
 ## **5\. Detalles de un Tuit**
 
 ![](images/detalles1.png)
@@ -177,10 +174,6 @@ Cuando accedes a un twit específico, puedes interactuar con él mediante varias
     </div>
 </div>
 
-
-
-
-
 <div style="display: flex; align-items: center;grid-template-columns: 1fr 1fr 1fr;  column-gap: 10px; margin-bottom: 10px">
     <p>
         <strong>3. Favoritos</strong>: Podrás consultar las publicaciones   que el usuario ha marcado como favoritas.
@@ -209,8 +202,6 @@ En la sección de Mi Perfil  la cual es accesible en la barra principal del men�
     </div>
     </div>
 </div>
-
-
 
 **2\. Mis Intereses**: Muestra nuestros intereses
 
@@ -249,22 +240,22 @@ La funcionalidad de chats te permite comunicarte en tiempo real con otros usuari
             <strong>1. Chats Activos</strong>:
                 <ul>
                     <li>
-                        Verás una lista de chats ya iniciados con   otros usuarios.   
-                    </li> 
+                        Verás una lista de chats ya iniciados con   otros usuarios.
+                    </li>
                     <li>
                         Selecciona cualquier chat para continuar la  conversación en tiempo real.
                     </li>
                 <ul>
         </div>
         <div>
-            <strong>2.Envío de Mensajes</strong>: 
+            <strong>2.Envío de Mensajes</strong>:
             <ul>
                 <li>Dentro del chat, escribe tu mensaje en elcampo     de  texto y presiona el botón de enviar.
-                </li> 
+                </li>
                 <li>
                 Puedes enviar texto, emojis y otros elementos  compatibles.
                 </li>
-            <ul> 
+            <ul>
         </div>
         <div>
         <strong>3.Iniciar un Nuevo Chat </strong>:
@@ -278,10 +269,9 @@ La funcionalidad de chats te permite comunicarte en tiempo real con otros usuari
     <image style= "width=400px; height:700px"src="./images/chats2.png">
 </div>
 
-
 Esta funcionalidad te permite mantener conversaciones privadas y dinámicas con otros usuarios de la aplicación.
 
-## 
+##
 
 ## **9\. Notificaciones**
 
@@ -290,7 +280,7 @@ La sección de notificaciones te mantiene informado sobre las interacciones más
 <div style="display: flex; align-items: flex-start;grid-template-columns: 1fr 1fr 1fr;  column-gap: 5px; margin-bottom:10px;">
     <div style="width=200px">
         <div>
-            <strong>1.Mención en un Tuit </strong>: 
+            <strong>1.Mención en un Tuit </strong>:
             <ul>
                 <li>
                 Recibirás una notificación cada vez que otro usuario te mencione en una publicación utilizando `@tu_nombre_usuario`
@@ -311,14 +301,11 @@ La sección de notificaciones te mantiene informado sobre las interacciones más
     <image style= "width=400px; height:300px"src="./images/notificaciones.png">
 </div>
 
-
 ### **Activación de Notificaciones**
 
 Para recibir notificaciones, es importante que permitas el acceso a las notificaciones de la aplicación desde la configuración de tu dispositivo. Si no las activas, es posible que no recibas alertas importantes.
 
 ### **Visualización de Notificaciones**
-
-
 
 <div style="display: flex; align-items: center;grid-template-columns: 1fr 1fr 1fr;  column-gap: 5px; margin-bottom:10px;">
     <div style="margin-right:10px">
@@ -337,26 +324,12 @@ Si olvidaste tu contraseña, puedes recuperarla fácilmente siguiendo estos paso
 1. **Acceso a la Opción de Recuperación**:  
    * En la pantalla de inicio de sesión, selecciona la opción **"¿Olvidaste tu contraseña?"**.
   
-
     <img src="./images/recupero1.png"  width="200" height="300" style="display: block; margin: 0 auto" />
 
 2. **Ingreso del Correo Electrónico Vinculado**:  
    * Ingresa la dirección de correo electrónico vinculada a tu cuenta. Asegúrate de que sea el mismo correo que utilizaste al registrarte.
-   * 
+   *
     <img src="./images/recupero2.png"  width="300" height="300" style="display: block; margin: 0 auto" />
-
-   
-
-   
-
-   
-
-   
-
-   
-
- 
-
 
 3. **Recepción del Correo de Recuperación**:  
    * Revisa tu bandeja de entrada (o carpeta de spam, en caso de que no lo encuentres) para localizar el correo que contiene el enlace de recuperación.  
@@ -367,13 +340,11 @@ Si olvidaste tu contraseña, puedes recuperarla fácilmente siguiendo estos paso
    * Copia el enlace proporcionado en el correo y pégalo en el navegador Google Chrome (u otro navegador de tu preferencia).  
   
     <img src="./images/recupero4.png"  width="500" height="100" style="display: block; margin: 0 auto" />
-   
 
 5. **Restablecimiento de Contraseña**:  
    * Sigue las instrucciones para establecer una nueva contraseña. Asegúrate de elegir una contraseña segura que sea fácil de recordar para ti.
 
         <img src="./images/recupero5.png"  width="200" height="300" style="display: block; margin: 0 auto" />
-
 
 6. **Inicio de Sesión con la Nueva Contraseña**:  
    * Una vez que hayas creado tu nueva contraseña, regresa a la aplicación e inicia sesión con tus credenciales actualizadas.
