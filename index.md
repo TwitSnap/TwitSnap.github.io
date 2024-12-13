@@ -4,6 +4,7 @@
 - [Aplicacion Twitsnap](#aplicacion-twitsnap)
   - [Manuales](#manuales)
   - [Arquitectura](#arquitectura)
+- [Analisis Post Mortem](#analisis-post-mortem)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -39,3 +40,6 @@ Para cada microservicio se agregó un link al repositorio correspondiente
      * Cambio de contraseña
 
 7) **Service Registry**: Maneja todo lo que tenga que ver con las api-keys de los microservicios. Se encarga de autenticar dichas keys y verificar si el servicio esta activo o no. [Repo](https://github.com/TwitSnap/TwitSnap-ServiceRegistry-API)
+
+
+# Analisis Post Mortem
