@@ -5,23 +5,23 @@
 
 - [**Manual de Usuario - Aplicación Twitsnap**](#manual-de-usuario---aplicación-twitsnap)
 - [Introducción](#introducción)
-- [**Registro de usuario**](#registro-de-usuario)
-  - [**Registro normal**](#registro-normal)
-  - [**Entrar con Google**](#entrar-con-google)
-- [**Inicio de sesión y logout**](#inicio-de-sesión-y-logout)
-  - [**Inicio de sesión normal**](#inicio-de-sesión-normal)
-  - [**Inicio de sesión con Google**](#inicio-de-sesión-con-google)
-- [**Feed y como publicar un twit**](#feed-y-como-publicar-un-twit)
-  - [**Feed**](#feed)
-  - [**Publicar**](#publicar)
-- [**Detalles de un Tuit**](#detalles-de-un-tuit)
-- [**Perfiles**](#perfiles)
-- [**Buscar Usuarios/Twits**](#buscar-usuariostwits)
-- [**Chats**](#chats)
-- [**Notificaciones**](#notificaciones)
-  - [**Activación de Notificaciones**](#activación-de-notificaciones)
-  - [**Visualización de Notificaciones**](#visualización-de-notificaciones)
-- [**Recupero de contraseña**](#recupero-de-contraseña)
+- [Registro de usuario](#registro-de-usuario)
+  - [Registro normal](#registro-normal)
+  - [Entrar con Google](#entrar-con-google)
+- [Inicio de sesión y logout](#inicio-de-sesión-y-logout)
+  - [Inicio de sesión normal](#inicio-de-sesión-normal)
+  - [Inicio de sesión con Google](#inicio-de-sesión-con-google)
+- [Feed y como publicar un twit](#feed-y-como-publicar-un-twit)
+  - [Feed](#feed)
+  - [Publicar](#publicar)
+- [Detalles de un Twit](#detalles-de-un-twit)
+- [Perfiles](#perfiles)
+- [Buscar Usuarios/Twits](#buscar-usuariostwits)
+- [Chats](#chats)
+- [Notificaciones](#notificaciones)
+  - [Activación de Notificaciones](#activación-de-notificaciones)
+  - [Visualización de Notificaciones](#visualización-de-notificaciones)
+- [Recupero de contraseña](#recupero-de-contraseña)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -29,9 +29,9 @@
 
 Bienvenido al manual de usuario de nuestra aplicación Twitsnap. Este documento te guiará a través de las funcionalidades principales de la aplicación, desde el registro hasta la publicación de contenido
 
-## **Registro de usuario**
+## Registro de usuario
 
-### **Registro normal**
+### Registro normal
 
 1. Abre la aplicación y selecciona la opción **Registrarse**.  
 2. Completa el formulario de registro proporcionando:  
@@ -46,7 +46,7 @@ Bienvenido al manual de usuario de nuestra aplicación Twitsnap. Este documento 
 
 ![](./images/login1.png) ![](images/login2.png)
 
-### **Entrar con Google**
+### Entrar con Google
 
 1. Abre la aplicación y selecciona la opción **Login with Google**.  
 2. Inicia sesión en tu cuenta de Google si aún no lo has hecho.  
@@ -55,9 +55,9 @@ Bienvenido al manual de usuario de nuestra aplicación Twitsnap. Este documento 
 
 ![](images/googl1.png) ![](images/google2.png)
 
-## **Inicio de sesión y logout**
+## Inicio de sesión y logout
 
-### **Inicio de sesión normal**
+### Inicio de sesión normal
 
 1. Ingresa tu correo electrónico y contraseña registrados.  
 2. En la pantalla de inicio, selecciona la opción **Login**.  
@@ -69,7 +69,7 @@ Bienvenido al manual de usuario de nuestra aplicación Twitsnap. Este documento 
 
 ![](images/verificacion1.png) ![](images/verificacion2.png)
 
-### **Inicio de sesión con Google**
+### Inicio de sesión con Google
 
 1. En la pantalla de inicio, selecciona la opción **Login with Google**.  
 2. Si ya has registrado tu cuenta usando Google, solo necesitarás iniciar sesión en tu cuenta de Google.  
@@ -77,16 +77,16 @@ Bienvenido al manual de usuario de nuestra aplicación Twitsnap. Este documento 
 
 ***Nota: Si te registraste con Google, el inicio de sesión deberá realizarse también con Google. No necesitarás crear una contraseña adicional.***
 
-**Logout**
+Logout
 
 ![](images/logout.png)
 
 1. Para cerrar sesión, selecciona la opción **"Cerrar Sesión"** desde el menú principal.  
 2. Esto desconectará tu cuenta de forma segura, protegiendo tu información.
 
-## **Feed y como publicar un twit**
+## Feed y como publicar un twit
 
-### **Feed**
+### Feed
 
 El feed de la aplicación presenta una lista de publicaciones organizadas cronológicamente y personalizadas según tus intereses. En esta sección encontrarás:
 
@@ -96,7 +96,7 @@ El feed de la aplicación presenta una lista de publicaciones organizadas cronol
 
 <img style="display: block ;margin: auto; width: 300px; height: 400px;" src="./images/feed.png" />
 
-### **Publicar**
+### Publicar
 
 ![](images/publicar2.png)
 
@@ -112,7 +112,7 @@ Puedes crear tus propias publicaciones con las siguientes características:
 
 ![](images/publicar1.png)
 
-## **Detalles de un Tuit**
+## Detalles de un Twit
 
 ![](images/detalles1.png)
 
@@ -136,7 +136,7 @@ Cuando accedes a un twit específico, puedes interactuar con él mediante varias
 
 **7\. Privacidad**: Si el twit es privado, aparecerá una etiqueta indicando que solo los seguidores del usuario pueden verlo.
 
-## **Perfiles**
+## Perfiles
 
 **Perfil de Otro Usuario:** Al acceder al perfil de otro usuario, podrás ver su foto de perfil, nombre de usuario (username), biografía, y sus publicaciones.
 <div style="display: flex; align-items: flex-start;grid-template-columns: 1fr 1fr 1fr; column-gap: 10px; margin-bottom:10px;">
@@ -184,7 +184,7 @@ En la sección de Mi Perfil  la cual es accesible en la barra principal del men�
 
 ![](images/intereses1.png)
 
-## **Buscar Usuarios/Twits**
+## Buscar Usuarios/Twits
 
 La funcionalidad de búsqueda te permite encontrar usuarios y publicaciones relevantes mediante una interfaz sencilla e intuitiva. A continuación, se detalla cómo usar esta función:
 
@@ -203,7 +203,7 @@ La funcionalidad de búsqueda te permite encontrar usuarios y publicaciones rele
 
 Con esta herramienta, podrás descubrir nuevos contenidos y usuarios de manera eficiente y organizada.
 
-## **Chats**
+## Chats
 
 La funcionalidad de chats te permite comunicarte en tiempo real con otros usuarios. En la barra de navegación principal, selecciona el icono de chats para acceder a la pantalla principal de mensajes. A continuación, se detalla cómo funciona:
 
@@ -252,7 +252,7 @@ La funcionalidad de chats te permite comunicarte en tiempo real con otros usuari
 
 Esta funcionalidad te permite mantener conversaciones privadas y dinámicas con otros usuarios de la aplicación.
 
-## **Notificaciones**
+## Notificaciones
 
 La sección de notificaciones te mantiene informado sobre las interacciones más relevantes en la aplicación. Hay tres tipos de notificaciones disponibles:
 
@@ -280,11 +280,11 @@ La sección de notificaciones te mantiene informado sobre las interacciones más
     <image style= "width=400px; height:300px;" src="./images/notificaciones.png"/>
 </div>
 
-### **Activación de Notificaciones**
+### Activación de Notificaciones
 
 Para recibir notificaciones, es importante que permitas el acceso a las notificaciones de la aplicación desde la configuración de tu dispositivo. Si no las activas, es posible que no recibas alertas importantes.
 
-### **Visualización de Notificaciones**
+### Visualización de Notificaciones
 
 <div style="display: flex; align-items: center;grid-template-columns: 1fr 1fr 1fr;  column-gap: 5px; margin-bottom:10px;">
     <div style="margin-right:10px;">
@@ -296,7 +296,7 @@ Para recibir notificaciones, es importante que permitas el acceso a las notifica
      <image style= "width=100px; height:300px;" src="./images/notificaciones3.png"/>
 </div>
 
-## **Recupero de contraseña**
+## Recupero de contraseña
 
 Si olvidaste tu contraseña, puedes recuperarla fácilmente siguiendo estos pasos:
 
