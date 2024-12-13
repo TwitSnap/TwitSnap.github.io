@@ -140,12 +140,12 @@ Cuando accedes a un twit específico, puedes interactuar con él mediante varias
 
 **Perfil de Otro Usuario:** Al acceder al perfil de otro usuario, podrás ver su foto de perfil, nombre de usuario (username), biografía, y sus publicaciones.
 <div style="display: flex; align-items: flex-start;grid-template-columns: 1fr 1fr 1fr;  column-gap: 10px; margin-bottom:10px">
-    <image style= "width=100px; height:500px"src="./images/perfil1.png"/>
+    <image style= "width=100px; height:500px;" src="./images/perfil1.png"/>
     <div>
     <p><strong>1. Foto, Nombre de Usuario y Biografía</strong>: Verás su foto de perfil sumado a la bandera de su país, nombre de usuario (username) y la biografía que ha compartido, en la que puede describir detalles sobre sí mismo.
     </p>
     <p><strong>2. Seguidores y Seguidos</strong>: Solo podrás ver a quién sigue el usuario y quién lo sigue si te sigue también. Esto está sujeto a la configuración de privacidad del usuario. Además abajo vas a tener la opción de seguirlo o dejar de seguirlo.</p>
-    <image style= "width=100px; height:200px"src="./images/seguidos.png"/>
+    <image style= "width=100px; height:200px;" src="./images/seguidos.png"/>
     </div>
 </div>
 
@@ -153,7 +153,7 @@ Cuando accedes a un twit específico, puedes interactuar con él mediante varias
     <p>
         <strong>3. Favoritos</strong>: Podrás consultar las publicaciones   que el usuario ha marcado como favoritas.
     </p>
-  <image style= "width=100px; height:200px"src="./images/favoritos.png">
+  <image style= "width=100px; height:200px;" src="./images/favoritos.png">
 </div>
 
 **4\. Chat:** Podrás iniciar un chat con el usuario o acceder a él si ya está comenzado.
@@ -167,13 +167,13 @@ Cuando accedes a un twit específico, puedes interactuar con él mediante varias
 En la sección de Mi Perfil  la cual es accesible en la barra principal del menú donde está el feed general, además de las opciones disponibles en el perfil de otro usuario, tendrás herramientas adicionales para administrar y personalizar tu experiencia. Las funcionalidades principales incluyen:
 
 <div style="display: flex; align-items: flex-start;grid-template-columns: 1fr 1fr 1fr;  column-gap: 10px; margin-bottom:10px">
-    <image style= "width=100px; height:400px"src="./images/perfil3.png">
+    <image style= "width=100px; height:400px;" src="./images/perfil3.png">
     <div>
     <p><strong>1. Estadísticas</strong>: Consulta métricas detalladas sobre tu actividad en la aplicación, como el número de publicaciones realizadas, likes/retwits/comentarios recibidos, y seguidores ganados.
     </p>
     <div style="display: flex; align-items: flex-start;grid-template-columns: 1fr 1fr 1fr;  column-gap: 10px; margin-bottom:10px">
-    <image style= "width=100px; height:200px"src="./images/estadisticas1.png"/>
-        <image style= "width=100px; height:200px"src="./images/estadisticas2.png"/>
+    <image style= "width=100px; height:200px;" src="./images/estadisticas1.png"/>
+        <image style= "width=100px; height:200px;" src="./images/estadisticas2.png"/>
     </div>
     </div>
 </div>
@@ -241,7 +241,7 @@ La funcionalidad de chats te permite comunicarte en tiempo real con otros usuari
         </ul>  
         </div>
     </div>
-    <image style= "width=400px; height:700px"src="./images/chats2.png"/>
+    <image style= "width=400px; height:700px;" src="./images/chats2.png"/>
 </div>
 
 Esta funcionalidad te permite mantener conversaciones privadas y dinámicas con otros usuarios de la aplicación.
@@ -271,7 +271,7 @@ La sección de notificaciones te mantiene informado sobre las interacciones más
             </ul>
         </div>
     </div>
-    <image style= "width=400px; height:300px"src="./images/notificaciones.png"/>
+    <image style= "width=400px; height:300px;" src="./images/notificaciones.png"/>
 </div>
 
 ### **Activación de Notificaciones**
@@ -282,12 +282,12 @@ Para recibir notificaciones, es importante que permitas el acceso a las notifica
 
 <div style="display: flex; align-items: center;grid-template-columns: 1fr 1fr 1fr;  column-gap: 5px; margin-bottom:10px;">
     <div style="margin-right:10px">
-        <image style= "width=150px; height:70px;margin-bottom:10px"src="./images/notificaciones2.png"/>
+        <image style= "width=150px; height:70px;margin-bottom:10px;" src="./images/notificaciones2.png"/>
         <p>
             Desde el menú principal de la aplicación, puedes acceder a la   sección de <strong>Notificaciones</strong>, donde   se listarán todas las    alertas que hayas recibido. Esto te permite revisarlas en  cualquier momento de manera organizada.
         </p>
     </div>
-     <image style= "width=100px; height:300px"src="./images/notificaciones3.png"/>
+     <image style= "width=100px; height:300px;" src="./images/notificaciones3.png"/>
 </div>
 
 ## **10. Recupero de contraseña**
