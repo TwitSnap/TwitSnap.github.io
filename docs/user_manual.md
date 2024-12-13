@@ -139,13 +139,13 @@ Cuando accedes a un twit específico, puedes interactuar con él mediante varias
 ## **6. Perfiles**
 
 **Perfil de Otro Usuario:** Al acceder al perfil de otro usuario, podrás ver su foto de perfil, nombre de usuario (username), biografía, y sus publicaciones.
-<div style="display: flex; align-items: flex-start;grid-template-columns: 1fr 1fr 1fr;  column-gap: 10px; margin-bottom:10px;">
+<div style="display: flex; align-items: flex-start;grid-template-columns: 1fr 1fr 1fr; column-gap: 10px; margin-bottom:10px;">
     <image style= "width=100px; height:500px;" src="./images/perfil1.png"/>
     <div>
     <p><strong>1. Foto, Nombre de Usuario y Biografía</strong>: Verás su foto de perfil sumado a la bandera de su país, nombre de usuario (username) y la biografía que ha compartido, en la que puede describir detalles sobre sí mismo.
     </p>
     <p><strong>2. Seguidores y Seguidos</strong>: Solo podrás ver a quién sigue el usuario y quién lo sigue si te sigue también. Esto está sujeto a la configuración de privacidad del usuario. Además abajo vas a tener la opción de seguirlo o dejar de seguirlo.</p>
-    <image style= "width=100px; height:200px;" src="./images/seguidos.png"/>
+    <img style= "width=100px; height:200px;" src="./images/seguidos.png"/>
     </div>
 </div>
 
@@ -153,7 +153,7 @@ Cuando accedes a un twit específico, puedes interactuar con él mediante varias
     <p>
         <strong>3. Favoritos</strong>: Podrás consultar las publicaciones   que el usuario ha marcado como favoritas.
     </p>
-  <image style= "width=100px; height:200px;" src="./images/favoritos.png">
+  <image style= "width=100px; height:200px;" src="./images/favoritos.png" />
 </div>
 
 **4\. Chat:** Podrás iniciar un chat con el usuario o acceder a él si ya está comenzado.
