@@ -4,4 +4,4 @@ incremental: false
 highlighter: rouge
 gist:
   noscript: false
-markdown: kramdown
+markdown: GFM
