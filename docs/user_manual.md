@@ -4,9 +4,9 @@
 ## **Manual de Usuario \- Aplicación Twitsnap**
 
 - [**Manual de Usuario - Aplicación Twitsnap**](#manual-de-usuario---aplicación-twitsnap)
-- [**Introducción**](#introducción)
-- [**Registro de usuario**](#registro-de-usuario)
-  - [**Registro normal**](#registro-normal)
+- [Introducción](#introducción)
+- [Registro de usuario](#registro-de-usuario)
+  - [Registro normal](#registro-normal)
   - [**Entrar con Google**](#entrar-con-google)
 - [**Inicio de sesión y logout**](#inicio-de-sesión-y-logout)
   - [**Inicio de sesión normal**](#inicio-de-sesión-normal)
@@ -25,13 +25,13 @@
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-## **Introducción**
+## <strong>Introducción</strong>
 
 Bienvenido al manual de usuario de nuestra aplicación Twitsnap. Este documento te guiará a través de las funcionalidades principales de la aplicación, desde el registro hasta la publicación de contenido
 
-## **Registro de usuario**
+## <strong>Registro de usuario</strong>
 
-### **Registro normal**
+### <strong>Registro normal</strong>
 
 1. Abre la aplicación y selecciona la opción **Registrarse**.  
 2. Completa el formulario de registro proporcionando:  
