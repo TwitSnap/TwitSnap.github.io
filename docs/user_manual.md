@@ -139,7 +139,7 @@ Cuando accedes a un twit específico, puedes interactuar con él mediante varias
 ## **6. Perfiles**
 
 **Perfil de Otro Usuario:** Al acceder al perfil de otro usuario, podrás ver su foto de perfil, nombre de usuario (username), biografía, y sus publicaciones.
-<div style="display: flex; align-items: flex-start;grid-template-columns: 1fr 1fr 1fr;  column-gap: 10px; margin-bottom:10px">
+<div style="display: flex; align-items: flex-start;grid-template-columns: 1fr 1fr 1fr;  column-gap: 10px; margin-bottom:10px;">
     <image style= "width=100px; height:500px;" src="./images/perfil1.png"/>
     <div>
     <p><strong>1. Foto, Nombre de Usuario y Biografía</strong>: Verás su foto de perfil sumado a la bandera de su país, nombre de usuario (username) y la biografía que ha compartido, en la que puede describir detalles sobre sí mismo.
@@ -149,7 +149,7 @@ Cuando accedes a un twit específico, puedes interactuar con él mediante varias
     </div>
 </div>
 
-<div style="display: flex; align-items: center;grid-template-columns: 1fr 1fr 1fr;  column-gap: 10px; margin-bottom: 10px">
+<div style="display: flex; align-items: center;grid-template-columns: 1fr 1fr 1fr;  column-gap: 10px; margin-bottom: 10px;">
     <p>
         <strong>3. Favoritos</strong>: Podrás consultar las publicaciones   que el usuario ha marcado como favoritas.
     </p>
@@ -166,12 +166,12 @@ Cuando accedes a un twit específico, puedes interactuar con él mediante varias
 
 En la sección de Mi Perfil  la cual es accesible en la barra principal del menú donde está el feed general, además de las opciones disponibles en el perfil de otro usuario, tendrás herramientas adicionales para administrar y personalizar tu experiencia. Las funcionalidades principales incluyen:
 
-<div style="display: flex; align-items: flex-start;grid-template-columns: 1fr 1fr 1fr;  column-gap: 10px; margin-bottom:10px">
+<div style="display: flex; align-items: flex-start;grid-template-columns: 1fr 1fr 1fr;  column-gap: 10px; margin-bottom:10px;">
     <image style= "width=100px; height:400px;" src="./images/perfil3.png">
     <div>
     <p><strong>1. Estadísticas</strong>: Consulta métricas detalladas sobre tu actividad en la aplicación, como el número de publicaciones realizadas, likes/retwits/comentarios recibidos, y seguidores ganados.
     </p>
-    <div style="display: flex; align-items: flex-start;grid-template-columns: 1fr 1fr 1fr;  column-gap: 10px; margin-bottom:10px">
+    <div style="display: flex; align-items: flex-start;grid-template-columns: 1fr 1fr 1fr;  column-gap: 10px; margin-bottom:10px;">
     <image style= "width=100px; height:200px;" src="./images/estadisticas1.png"/>
         <image style= "width=100px; height:200px;" src="./images/estadisticas2.png"/>
     </div>
@@ -209,8 +209,8 @@ La funcionalidad de chats te permite comunicarte en tiempo real con otros usuari
 
 ![](images/chats1.png)
 
-<div style="display: flex; align-items: flex-start;grid-template-columns: 1fr 1fr 1fr;  column-gap: 5px; margin-bottom:10px; max-width: 1000px">
-    <div style="width=200px">
+<div style="display: flex; align-items: flex-start;grid-template-columns: 1fr 1fr 1fr;  column-gap: 5px; margin-bottom:10px; max-width: 1000px;">
+    <div style="width=200px;">
         <div>
             <strong>1. Chats Activos</strong>:
                 <ul>
@@ -281,7 +281,7 @@ Para recibir notificaciones, es importante que permitas el acceso a las notifica
 ### **Visualización de Notificaciones**
 
 <div style="display: flex; align-items: center;grid-template-columns: 1fr 1fr 1fr;  column-gap: 5px; margin-bottom:10px;">
-    <div style="margin-right:10px">
+    <div style="margin-right:10px;">
         <image style= "width=150px; height:70px;margin-bottom:10px;" src="./images/notificaciones2.png"/>
         <p>
             Desde el menú principal de la aplicación, puedes acceder a la   sección de <strong>Notificaciones</strong>, donde   se listarán todas las    alertas que hayas recibido. Esto te permite revisarlas en  cualquier momento de manera organizada.
