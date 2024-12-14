@@ -44,3 +44,6 @@ Se debe ingresar un nombre y una descripción. De ser exitosa la operación,
 se mostrará un log por consola y se indicará que es necesario refrescar la página para ver los cambios.
 
 ![](./images/backoffice/newservice.png)
+
+## Arquitectura Backoffice
+![backoffice drawio](https://github.com/user-attachments/assets/68132008-a965-403d-ac78-8c0b542424fc)
