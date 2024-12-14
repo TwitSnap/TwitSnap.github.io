@@ -4,7 +4,9 @@
 - [Aplicacion Twitsnap](#aplicacion-twitsnap)
   - [Manuales](#manuales)
   - [Arquitectura](#arquitectura)
-- [Analisis Post Mortem](#analisis-post-mortem)
+- [Análisis Post-Mortem](#análisis-post-mortem)
+  - [Identidad Federada](#identidad-federada)
+  - [Organización](#organización)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -42,4 +44,17 @@ Para cada microservicio se agregó un link al repositorio correspondiente
 7) **Service Registry**: Maneja todo lo que tenga que ver con las api-keys de los microservicios. Se encarga de autenticar dichas keys y verificar si el servicio esta activo o no. [Repo](https://github.com/TwitSnap/TwitSnap-ServiceRegistry-API)
 
 
-# Analisis Post Mortem
+# Análisis Post-Mortem
+
+## Identidad Federada
+
+Uno de los problemas con los que nos encontramos al principio del desarrollo fue poder lograr que el Login con identidad federada funcione. Fue una historia de usuario que nos persiguió durante la mayor parte del desarrollo por falta de conocimiento de las tecnologías usadas (Firebas, Expo Go, Android Studio). 
+Esto finalmente logramos solucionarlo modificando el código base del SDK de Java ya que pudimos identificar que era un problema en las Keys que usa el SDK para descargar las dependencias.
+
+## Organización
+
+En muchos de los checkpoints con el PO no cumplimos con los features acordados, y esto fue debido a una mala organización de la parte del equipo y de comunicación para que antes de las entregas tener un panorama de en qué estado estaban las features adeudadas y ver si se podría llegar si se ponía a mas gente trabajando en dichas features.
+
+Algo a favor de cómo nos repartimos las tareas fue que al cada uno tener un sector bien definido de la aplicación no había necesidad de estar esperando por features de otros sectores.
+
+
